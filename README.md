@@ -37,3 +37,10 @@ To clone this repository and navigate to it:
 ```bash
 git clone https://github.com/AwwadR/prework-day-1-and-2-AwwadR.git
 cd prework-day-1-and-2-AwwadR
+
+---
+
+## About
+
+My name is Rand Jamil. I am a Software Engineering graduate.  
+This repository is for AI.SPIRE Pre-Work Day 1 and Day 2 assignments.
