@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ACDS7X_C)
 # AI.SPIRE Pre-Work — Your Submission Repo for Day 1 and Day 2
 
 This is your first personal repository for the AI.SPIRE Pre-Work program.
@@ -12,15 +11,15 @@ Note: the Assignment due date is today. The GitHub Classroom button above lists 
 
 Each assignment is a **pull request (PR)** you submit on this repo:
 
-1. Create a branch from `main` with the assignment name (e.g., `pr-00-laptop-verify`)
+1. Create a branch from `main` with the assignment name (e.g., `pr-01-git-setup`)
 2. Add your deliverables to the branch (details on how to do this are in Day 1 - Assignment in TalentLMS)
-3. Open a pull request on GitHub: base `main` ← compare `pr-00-laptop-verify`  
+3. Open a pull request on GitHub: base `main` ← compare `pr-01-git-setup`  
 
 Configure the pull request:
 - Base: main
-- Compare: pr-00-laptop-verify
-- Title: PR-0: Laptop Verification Evidence Pack
-- Description: Brief summary of what you verified (2–3 sentences)
+- Compare: pr-01-git-setup
+- Title: PR-1: Git Setup
+- Description: Brief summary of what you completed (2–3 sentences)
 - Click "Create pull request".
 - Copy the Pull Request URL to submit in TalentLMS
 
@@ -28,3 +27,20 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+---
+
+## Setup
+
+To clone this repository and navigate to it:
+
+```bash
+git clone https://github.com/AwwadR/prework-day-1-and-2-AwwadR.git
+cd prework-day-1-and-2-AwwadR
+
+---
+
+## About
+
+My name is Rand Jamil. I am a Software Engineering graduate.  
+This repository is for AI.SPIRE Pre-Work Day 1 and Day 2 assignments.
