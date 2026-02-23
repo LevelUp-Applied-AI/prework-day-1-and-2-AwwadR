@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ACDS7X_C)
 # AI.SPIRE Pre-Work — Your Submission Repo for Day 1 and Day 2
 
 This is your first personal repository for the AI.SPIRE Pre-Work program.
@@ -28,3 +27,9 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+
+## About
+
+[My name is Rand Jamil I am a softarw enginreeing graduate, this repository for pre work day 2]
+
