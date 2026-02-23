@@ -14,7 +14,7 @@
 | OS Build / Version | OS build 26200.7840 |
 | RAM | 16 GB |
 | CPU Model | Intel(R) Core(TM) i5-10400H CPU |
-| CPU Cores | SSD |
+| CPU Cores | 4 |
 | Free Disk Space | 155 GB|
 | Internet Speed (Download) | 646.30 |
 
